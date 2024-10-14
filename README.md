@@ -20,7 +20,7 @@
  
 <div class="banner"> 
   <a href="https://www.example.com"> 
-    <h1>Это мой баннер!</h1> 
+    <h1>не ставти 2!</h1> 
   </a> 
 </div> 
  
